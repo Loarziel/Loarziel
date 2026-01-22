@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/myAhrxK.jpg" alt="Hey!" width="350"/>
 
-> I'm from Galicia, but actually living in Cordoba, Spain </br>
+> I'm from Galicia, and actually I'm living in Lugo, Spain </br>
 
 
  ## **Skills** 
@@ -23,18 +23,18 @@
 
 ---
 
- ## **Actual Projects**
+ ## **Past Projects**
 </br>
  
- > - I'm doing a Minecraft RPG spanish server named as:
+ > - I was leading the creation of a Minecraft RPG spanish server named as:
  > **Qyona's Earth.**
  >
  > <img src="https://i.imgur.com/uvOKqNP.jpg" alt="Qyona" width="200"/>
  >
- > Web and Discord Coming soon :) 
+ > Discord already online!! :) 
  > 
- > - I also have a project in pause, consisting in the creation of 3D custom avatars, and giving them a personal style, looking  like my previous profile pic. (More soon)
- > - I'm working on *ReadyPlayerMe* by **Wolf3D** as a full-time employement, as 3D Artist.
+ > - A finished concept series of fantasy characters on Twitch.
+ > - I worked for *PlayerZero* avatar platform by **ReadyPlayerMe** as a full-time employement, as 3D Character Artist.
 
 </br>
 </br>
