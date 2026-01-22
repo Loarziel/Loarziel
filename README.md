@@ -46,7 +46,7 @@
 
  > This is a link of my Final Grade Project,named as **TimeSlip.exe**, a shooter game done by 4 students, one of them, me :)</br>
  >
-> > <img src="https://i.imgur.com/14FGVL4.png"/>
+> > <img src="https://i.imgur.com/14FGVL4.png" alt="Androide-6" width="650"/>
 >
 > [![TimeslipTrailer](https://img.shields.io/badge/TimeSlip.exe_Teaser-FFFFFF?style=for-the-badge&logo=youtube&logoColor=black)](https://www.youtube.com/watch?v=UaS6pdGX5ew)
 >[![Itchioogo](https://img.shields.io/badge/Loarziel-FFFFFF?style=for-the-badge&logo=itch.io&logoColor=black)](https://loarziel.itch.io/)
