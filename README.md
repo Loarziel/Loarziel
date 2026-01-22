@@ -1,6 +1,6 @@
 ## **Hi! I'm Loarziel**
 
-<img src="https://i.imgur.com/a7NAFaC.jpeg" alt="Hey!" width="350"/>
+<img src="https://i.imgur.com/a7NAFaC.jpeg" alt="Hey!" width="850"/>
 
 > My name is Laura Morán, but my artistic name is Loarziel. I'm a 3D Character Artist based in Spain with 4+ years of experience creating stylized characters, modular clothing, and creatures—mostly during my time at Ready Player Me, where I contributed to avatar systems and visual R&D. Now I'm looking for new horizons and adventures and doing portfolio pieces to help me achieve it. </br>
 
